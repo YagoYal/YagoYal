@@ -103,7 +103,7 @@ Me chamo Yago Almeida da Silva, tenho 27 anos e sou natural do São Paulo. Tenho
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; padding-bottom: 10px" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=YagoYal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
