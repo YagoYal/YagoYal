@@ -92,9 +92,6 @@ Me chamo Yago Almeida da Silva, tenho 27 anos e sou natural do São Paulo. Tenho
           
 <br/>
 <br/>
-<br/>
-
----
 
 ### 📊 Estatísticas
 
